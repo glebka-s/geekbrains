@@ -1,5 +1,5 @@
 # Гайд по работе с Git
-
+* ***git version*** - просмотр установленной версии git
 ## 1. Начало работы
 * ***git config --global user.name "My Name"*** - задать имя пользователя
 * ***git config --global user.email "My Name"*** - задать e-mail пользователя
